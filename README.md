@@ -1,16 +1,23 @@
-## Hi there 👋
+## How you doing 🔧😸
 
-<!--
-**TheSpiegel/TheSpiegel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🚀 What I’m Working On
 
-Here are some ideas to get you started:
+Capstone Project: Ebay ROI Web App. I’m currently lead-developing a Web solution focused on calculating ROI on ebay products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Operating Systems: Deep-diving into the process synchronization, memory management, and why my computer does what it does when it's not complaining.
+
+# 💼 Professional Experience
+[Under Construction]
+
+🛠 Tech Stack
+[Under Construction]
+
+📬 Let's Connect
+- LinkedIn: [Link Here]
+
+Email: Spiegel [dot] py [at] gmail [dot] com
+- [inplement link]
+
+Status: 
+- Passively seeking 2026 New Grad Software Engineering roles.
+- [Under Construction]
