@@ -19,4 +19,4 @@ I am a senior Computer Science student blending full-stack architecture with a b
 
 ### 📬 Let's Connect
 * **LinkedIn:** [Insert Link Here]
-* **Email:** [spiegel.py@gmail.com](mailto:spiegel.py@gmail.com)
+* **Email:** Spiegel [dot] py [at] gmail [dot] com
