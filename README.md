@@ -1,24 +1,22 @@
-## How you doing 🔧😸
+# Hey, I'm Matthew Spiegel 🔧😸
+
+I am a senior Computer Science student blending full-stack architecture with a background in technical sales. I build fast, tactile tools that solve real commercial problems. 
+
+**Status:** Based in the Central Time Zone and passively seeking 2026 New Grad Software Engineering roles.
 
 ### 🚀 What I’m Working On
-
-Capstone Project: Ebay ROI Web App. I’m currently lead-developing a Web solution focused on calculating ROI on ebay products.
-
-Operating Systems: Deep-diving into the process synchronization, memory management, and why my computer does what it does when it's not complaining.
-
-### 💼 Professional Experience
-[Under Construction]
+* **Woolong ROI (Senior Capstone):** Architecting a mobile-first financial logic engine for high-volume secondary market sellers. I am bypassing clunky web forms and building a native iOS/Android experience using Expo and Supabase.
+* **Operating Systems:** Diving deep into low-level C programming. I'm currently focused on process synchronization, memory management, and orchestrating parent/child process states (so the OS does what I want, when I want it to).
 
 ### 🛠 Tech Stack
-[Under Construction]
+* **Frontend:** JavaScript, React Native, Expo, Tailwind CSS (NativeWind)
+* **Backend & Data:** Supabase, PostgreSQL
+* **Systems:** C, Node.js
+* **Tools:** Git, VS Code
+
+### 💼 Professional Experience
+* *[Under Construction]*
 
 ### 📬 Let's Connect
-- LinkedIn: [Link Here]
-
-Email: Spiegel [dot] py [at] gmail [dot] com
-- [inplement link]
-
-Status: 
-- Central Time Zone
-- Passively seeking 2026 New Grad Software Engineering roles.
-- [Under Construction]
+* **LinkedIn:** [Insert Link Here]
+* **Email:** [spiegel.py@gmail.com](mailto:spiegel.py@gmail.com)
